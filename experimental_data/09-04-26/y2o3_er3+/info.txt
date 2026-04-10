@@ -1,0 +1,4 @@
+y2o4: er3+ 1M
+
+avg: 50
+offset: 0.5

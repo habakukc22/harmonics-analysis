@@ -1,7 +1,0 @@
-y2o4: er3+
-y2o4: er3+/yb3+
-nayf4: er3+/yb3+
-
-
-.05 ate .50 passos de .05
-freq: 1, 10, 100, 1000, 10000 100000
